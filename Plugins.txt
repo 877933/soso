@@ -6,3 +6,6 @@ https://codecanyon.net/item/legacy-white-label-wordpress-admin-theme/11272219
 
 Advanced iFrame Pro
 https://codecanyon.net/item/advanced-iframe-pro/5344999
+
+PageLoader: Loading Screen and Progress Bar for WordPress
+https://codecanyon.net/item/pageloader-loading-screen-and-progress-bar-for-wordpress/6594364
